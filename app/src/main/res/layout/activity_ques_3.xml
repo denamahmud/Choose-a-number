@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/colorPrimary"
+    tools:context=".Questions.Ques_3">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color_tv1"
+        android:textAlignment="center"
+        android:textSize="@dimen/txt_size_1"
+        android:layout_margin="@dimen/margin_txt"
+        android:text="@string/txt_ques3"/>
+
+
+    <Button
+        android:id="@+id/btn_yes_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color_white"
+        android:layout_margin="@dimen/btn1_margin"
+        android:layout_marginTop="@dimen/marginTop_btn"
+        android:backgroundTint="@android:color/transparent"
+        android:text="@string/answer_yes"/>
+
+    <Button
+        android:id="@+id/btn_no_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color_white"
+        android:layout_margin="@dimen/btn1_margin"
+        android:layout_marginTop="@dimen/marginTop_btn"
+        android:backgroundTint="@android:color/transparent"
+        android:text="@string/answer_no" />
+
+</LinearLayout>

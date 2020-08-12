@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_lv">373dp</dimen>
+    <dimen name="margin_lv">50dp</dimen>
+    <dimen name="height_lv_arabic">373dp</dimen>
+    <dimen name="margin_lv_arabic">50dp</dimen>
+    <dimen name="txt_size_1">30sp</dimen>
+    <dimen name="margin_txt">20dp</dimen>
+    <dimen name="btn1_margin">20dp</dimen>
+    <dimen name="marginTop_btn">50dp</dimen>
+</resources>

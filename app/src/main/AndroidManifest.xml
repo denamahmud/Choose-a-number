@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.denamahmud.honestlygame">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Questions.Ques_10"></activity>
+        <activity android:name=".Questions.Ques_9" />
+        <activity android:name=".Questions.Ques_8" />
+        <activity android:name=".Questions.Ques_7" />
+        <activity android:name=".Questions.Ques_6" />
+        <activity android:name=".Questions.Ques_5" />
+        <activity android:name=".Questions.Ques_4" />
+        <activity android:name=".Questions.Ques_3" />
+        <activity android:name=".Questions.Ques_2" />
+        <activity android:name=".Results.Res_2" />
+        <activity android:name=".Results.Res_1" />
+        <activity android:name=".Questions.Ques_1" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">اختر رقم</string>
+
+    <string name="title_text">Choose any number</string>
+    <string name="title_tv_arabic">اختر اي رقم</string>
+    <string name="txt_ques1">The capital of Iraq is Cairo ?</string>
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+    <string name="ques1_arabic">عاصمة العراق هي القاهرة ؟</string>
+    <string name="answer1_arabic_yes">صح</string>
+    <string name="answer1_arabic_no">خطأ</string>
+    <string name="txt_ques2">Scientist Edison made the first public display of an incandescent light bulb on December 31, 1879 ?</string>
+    <string name="ques2_arabic">قام العالم إديسون بأول عرض عام لمصباح كهربائي متوهج في 31 ديسمبر 1879 ؟</string>
+    <string name="txt_ques3">Mount Everest is the highest mountain on Earth ?</string>
+    <string name="ques3_arabic">جبل ايفرست هو أعلى جبل على وجه الأرض ؟</string>
+    <string name="txt_ques4">The ostrich buries its head in the sand because it is afraid of danger ?</string>
+    <string name="ques4_arabic">النعامة تدفن رأسها في الرمل خوفا من الخطر ؟</string>
+    <string name="txt_ques5">The fly has 8 legs? ?</string>
+    <string name="ques5_arabic">الذبابة لديها 8 أرجل ؟</string>
+    <string name="txt_ques6">Bill Gates is the founder of Microsoft company ?</string>
+    <string name="ques6_arabic">بيل جيتس هو مؤسس شركة مايكروسوفت ؟</string>
+    <string name="txt_ques7">Oxford University is located in America ?</string>
+    <string name="ques7_arabic">تقع جامعة أكسفورد في أمريكا ؟</string>
+    <string name="txt_ques8">William Shakespeare is a playwright ?</string>
+    <string name="ques8_arabic">وليم شكسبير كاتب مسرحي ؟</string>
+    <string name="txt_ques9">Volcanoes are one of the reasons for the occurrence of the tsunami phenomenon ?</string>
+    <string name="ques9_arabic">البراكين هي أحد أسباب حدوث ظاهرة تسونامي ؟</string>
+    <string name="txt_ques10">The scientist Pythagoras was a mathematician, philosopher, and astronomer in ancient Greece?</string>
+    <string name="ques10_arabic">كان العالم فيثاغورس عالم رياضيات وفيلسوفًا وعالم فلك في اليونان القديمة ؟</string>
+
+    <string-array name="numbers">
+
+
+        <item>١</item>
+        <item>٢</item>
+        <item>٣</item>
+        <item>٤</item>
+        <item>٥</item>
+        <item>٦</item>
+        <item>٧</item>
+        <item>٨</item>
+        <item>٩</item>
+        <item>١٠</item>
+
+    </string-array>
+</resources>
